@@ -1,22 +1,26 @@
 # jestCourse
 
-Created for https://testautomationu.applitools.com/ 
+Created for `https://testautomationu.applitools.com/`
 
 All jest tests files and related code for the "Just getting started with JEST course" by Toyer Mamoojee can be found here.
 
-*Pre-requisites to this course include:
+## Pre-requisites
 
- NodeJS
-https://nodejs.org/en/download/
+### NodeJS
+
+`https://nodejs.org/en/download/`
  NPM
-https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+`https://docs.npmjs.com/downloading-and-installing-node-js-and-npm`
 
-Software
+### Software
+
  Visual Studio Code
-https://visualstudio.microsoft.com/downloads/
+`https://visualstudio.microsoft.com/downloads/`
 
-*Steps
-In Terminal or gitBash: 
+## Steps
+
+In Terminal or gitBash:
+
 1. mkdir automationU
 2. cd automationU
 3. Clone this repo to location automationU
@@ -26,4 +30,3 @@ In Terminal or gitBash:
     "test": "jest"
 }
 7. Happy Jesting :)
-

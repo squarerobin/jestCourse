@@ -2,6 +2,10 @@ test('there is pool in Liverpool',() => {
     expect('Liverpool').toMatch(/pool/);
 });
 
+test("there is pool in Liverpool", () => {
+  expect("Liverpool").not.toMatch(/pol/);
+});
+
 const multiply = require('./multiply');
 
 describe('test multiply positive scenarios',() =>{
